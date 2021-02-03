@@ -3,16 +3,16 @@
     font-size: 23px;
     width: 100%;
     margin: 0px;
-    box-shadow: 5px 5px 5px goldenrod;
+    box-shadow: 5px 5px 5px rgb(32, 218, 32);
 }
 
 .heading_div
 {
     float: none;
-    background: lightcoral;
+    background: rgb(252, 89, 89);
     padding: 10px;
     border-radius: 20px; 
-    color: lightseagreen;
+    color: rgba(10, 255, 243, 0.315);
     box-shadow: 5px 5px 5px slateblue;
 }
 
@@ -23,7 +23,7 @@
 
 .result_para_tag
 {
-    box-shadow: 5px 5px 5px crimson;
+    box-shadow: 5px 5px 5px rgba(188, 67, 236, 0.527);
     font-size: 20px;
 }
 
@@ -33,15 +33,15 @@
     color: darkcyan;
     bottom: 0;
     width: 100%;
-    background-color: rgb(116, 237, 100);
+    background-color: rgb(255, 217, 0);
     line-height: 3;
     text-align: center;
 }
 
 canvas
 {
-    border:5px solid darkorchid;
+    border:5px solid rgb(100, 24, 49);
     border-radius: 20px;
-    box-shadow: 5px 5px 5px sandybrown;
+    box-shadow: 5px 5px 5px rgb(78, 66, 56);
     margin-top: 150px;
 }
